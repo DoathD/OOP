@@ -1,0 +1,13 @@
+ Information: Belgium, 11.521 million people, 619 billions of dollars, 30528 square kilometers
+ Information: Kazakhstan, 19.644 million people, 207 billions of dollars, 2724902 square kilometers
+ Information: NorthKorea, 26.111 million people, 17 billions of dollars, 120540 square kilometers
+ Information: Canada, 38.929 million people, 2016 billions of dollars, 9984670 square kilometers
+ Information: SouthKorea, 51.744 million people, 1804 billions of dollars, 100210 square kilometers
+ Information: Italy, 58.983 million people, 1848 billions of dollars, 302073 square kilometers
+ Information: GreatBritain, 67.081 million people, 3376 billions of dollars, 242495 square kilometers
+ Information: France, 68.084 million people, 2551 billions of dollars, 643801 square kilometers
+ Information: Germany, 83.695 million people, 4672 billions of dollars, 357578 square kilometers
+ Information: Japan, 125.44 million people, 5080 billions of dollars, 377975 square kilometers
+ Information: Russia, 145.478 million people, 1820 billions of dollars, 17098246 square kilometers
+ Information: USA, 301.693 million people, 21433 billions of dollars, 9826675 square kilometers
+ Information: China, 1410.539 million people, 18100 billions of dollars, 9596961 square kilometers
