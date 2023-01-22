@@ -27,3 +27,10 @@
 
 ![3](https://user-images.githubusercontent.com/92251024/206925328-9d0bae44-f7d5-45d3-9c94-1e49c6117879.gif)
 
+Лабораторная работа №4
+
+ - Привязка к изменению события ComboBox
+ - Привязка к событию выбора/снятия CheckBox
+ - Привязка к событию нажатия на клавишу в текстовом поле
+ 
+![Гифка с Gifius ru](https://user-images.githubusercontent.com/92251024/213909074-6ef4a44b-123d-42d2-8c0a-9891840c0a6d.gif)
